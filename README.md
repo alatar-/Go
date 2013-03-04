@@ -1,3 +1,3 @@
 Go 
 -------
-Console game Go written in C using ncurses lib.
+Console game Go written in C++ using ncurses lib.
